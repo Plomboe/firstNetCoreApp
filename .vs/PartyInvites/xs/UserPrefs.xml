@@ -1,10 +1,29 @@
 ﻿<Properties StartupConfiguration="{E00972C9-AFB8-469E-9000-03F3C2B8DB4F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Views/Home/RsvpForm.cshtml">
     <Files>
-      <File FileName="PartyInvites/Controllers/HomeController.cs" Line="20" Column="28" />
-      <File FileName="PartyInvites/Views/Home/MyView.cshtml" Line="12" Column="48" />
       <File FileName="PartyInvites/Program.cs" Line="17" Column="1" />
+      <File FileName="PartyInvites/Views/Home/MyView.cshtml" Line="19" Column="1" />
+      <File FileName="PartyInvites/Controllers/HomeController.cs" Line="21" Column="27" />
+      <File FileName="PartyInvites/Models/GuestResponse.cs" Line="12" Column="1" />
+      <File FileName="PartyInvites/Views/Home/RsvpForm.cshtml" Line="6" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PartyInvites" expanded="True">
+            <Node name="PartyInvites" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="RsvpForm.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

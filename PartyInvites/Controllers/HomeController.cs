@@ -10,10 +10,6 @@ namespace PartyInvites.Controllers
 {
     public class HomeController : Controller
     {
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
         public ViewResult Index()
         {
             int hour = DateTime.Now.Hour;
@@ -21,19 +17,10 @@ namespace PartyInvites.Controllers
             return View("MyView");
         }
 
-        public IActionResult About()
-        {
-            ViewData["Message"] = "Your application description page.";
-
+        public ViewResult RsvpForm(){
             return View();
         }
 
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
-        }
 
         public IActionResult Error()
         {
