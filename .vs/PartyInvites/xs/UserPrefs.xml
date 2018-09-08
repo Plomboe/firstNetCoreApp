@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E00972C9-AFB8-469E-9000-03F3C2B8DB4F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Program.cs">
+    <Files>
+      <File FileName="PartyInvites/Controllers/HomeController.cs" Line="20" Column="28" />
+      <File FileName="PartyInvites/Views/Home/MyView.cshtml" Line="12" Column="48" />
+      <File FileName="PartyInvites/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PartyInvites PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
